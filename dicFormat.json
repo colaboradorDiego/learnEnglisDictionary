@@ -1,0 +1,19 @@
+{
+  "Palabra": {
+    "Traduccion": [
+      "T1",
+      "Tn-1",
+      "Tn"
+    ],
+    "Vocabulario": {
+      "contextoA": [
+        "englisText",
+        "spanishText"
+      ],
+      "contextoB": [
+        "englisText",
+        "spanishText"
+      ]
+    }
+  }
+}

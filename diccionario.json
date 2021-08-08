@@ -1,0 +1,25 @@
+{
+  "Novetly": {
+    "Traduccion": [
+      "novedad"
+    ],
+    "Vocabulario": {}
+  },
+  "get": {
+    "Traduccion": [
+      "obtener"
+    ],
+    "Vocabulario": {
+      "get rid": "deshacerse",
+      "get out": "sal"
+    }
+  },
+  "Lodge": {
+    "Traduccion": [
+      "presentar",
+      "alojar",
+      "albergar"
+    ],
+    "Vocabulario": {}
+  }
+}
